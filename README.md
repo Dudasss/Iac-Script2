@@ -1,7 +1,7 @@
 # Infraestrutura como código:
 # Script de provisionamento de um servidor web (apache) 
 
-
+## Todo provisionamento são feitos em um arquivo do tipo Bash Script;
 ### Atualizar o servidor;
 ### Instalar o apache2;
 ### Instalar o unzip;
